@@ -1,5 +1,4 @@
-# README
+Hello
 
-Salut ma couille, c'est mon premier repo (Une base de donnée de blog)
+Ce projet a été réalisé par Anais Diologeant, Mustapha Ait Ouayhou, Thomas Perus
 
-Félix Perez
